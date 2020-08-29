@@ -14,7 +14,7 @@ lib-quality-test is a project done as an entry test for Venturus.
   * [PowerShell](#powershell)
   * [wget](#wget)
 * [Documentation](#documentation)
-* [Thanks](#thankss)
+* [Thanks](#thanks)
 
 ## General info
 The project isn't finished.
